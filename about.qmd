@@ -20,9 +20,13 @@ Staten Island, NY 10314
 ::::
 
 :::: {.second-column .small-h3}
-### Carlo Lancellotti - Professor and Chair
+### Abhijit Champanerkar - Professor and Chair
 
 <i class="bi bi-envelope"></i> [mathchair@csi.cuny.edu](mailto:mathchair@csi.cuny.edu)
+
+### Andras Balogh - Math Advisor
+
+<i class="bi bi-envelope"></i> [mathadvisor@csi.cuny.edu](mailto:mathadvisor@csi.cuny.edu)
 
 ### Annette Coniglio - Administrative Assistant
 

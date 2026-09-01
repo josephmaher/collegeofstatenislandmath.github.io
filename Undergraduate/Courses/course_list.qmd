@@ -11,14 +11,6 @@ order: 0
     [\[Role/Learning
     Goals\]](LearningGoals/MTH034)
 
--   MTH 035 *Intermediate Algebra*
-    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%2035)
-    [\[Syllabus\]](Syllabi/MTH035-syllabus.pdf)
-    [\[Role/Learning
-    Goals\]](LearningGoals/MTH035)
-
-A co-requisite course for MTH 123 students
-
 ## General education offerings
 
 The College of Staten Island has general education requirements that
@@ -33,7 +25,6 @@ requirement.
     [\[Syllabus\]](Syllabi/MTH102-syllabus.pdf)
     [\[Role/Learning
     Goals\]](LearningGoals/MTH102)
-
 
 -   MTH 103 *Mathematical Ideas*
     [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20103)
@@ -75,7 +66,12 @@ for students intending to major in other disciplines.
 
     This course in only intended for nursing students.
 
--   MTH 121 *Finite Mathematics*
+-   MTH 119 *Business Pre-Calculus with Algebra Review*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses/1585021/general-aoYks)
+    [\[Syllabus\]](Syllabi/MTH119-syllabus.pdf)
+    [\[Role/Learning Goals\]](LearningGoals/MTH119)
+
+-   MTH 121 *Business Pre-Calculus*
     [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20121)
     [\[Syllabus\]](Syllabi/MTH121-syllabus.pdf)
     [\[Role/Learning
@@ -95,7 +91,7 @@ for students intending to major in other disciplines.
     [\[Role/Learning
     Goals\]](LearningGoals/MTH221)
 
-    Together, MTH 121 and MTH 221 are math courses intended to prepare
+    Together, MTH 119/121 and MTH 221 are math courses intended to prepare
     Business students for their studies.
 
 -   MTH 217 *Fundamentals of Mathematics I*
@@ -297,6 +293,9 @@ from the following list.
     [\[Syllabus\]](Syllabi/MTH347-syllabus.pdf)
     [\[Role/Learning
     Goals\]](LearningGoals/MTH347)
+
+-   MTH 348 *Computational Linear Algebra*
+    [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses/1584931/general-aoYks)
 
 -   MTH 349 *Cryptology*
     [\[Catalog\]](https://csi-undergraduate.catalog.cuny.edu/courses?sortBy=code&page=1&cq=mth%20349)
