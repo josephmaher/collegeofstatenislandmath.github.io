@@ -91,7 +91,7 @@ for students intending to major in other disciplines.
     [\[Role/Learning
     Goals\]](LearningGoals/MTH221)
 
-    Together, MTH 121 and MTH 221 are math courses intended to prepare
+    Together, MTH 119/121 and MTH 221 are math courses intended to prepare
     Business students for their studies.
 
 -   MTH 217 *Fundamentals of Mathematics I*
