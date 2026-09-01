@@ -22,8 +22,6 @@ website:
     left:
       - text: "About"
         href: about.qmd
-      - text: "Jobs"
-        href: jobs.qmd
       - text: "People"
         menu:
           - People/faculty/index.qmd
@@ -36,6 +34,8 @@ website:
         href: https://www.csi.cuny.edu/academics-and-research/specialized-programs/honors-programs/teacher-education-honors-academy
       - text: Syllabi
         href: Undergraduate/Courses/Syllabi/index.qmd
+      - text: "Jobs"
+        href: jobs.qmd
   # announcement:
   #   icon: newspaper
   #   dismissable: true
